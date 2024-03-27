@@ -10,7 +10,7 @@ Glad you stopped by! 😊
 
 <br>
 
-### Expertise 
+## Expertise 
 
 <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
